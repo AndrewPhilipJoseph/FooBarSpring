@@ -7,6 +7,6 @@ Welcome to our Trimester 2 Java Spring Project!
 
 | Scrum Member | Description |
 |--------|-------|
-| \| David Ramsayer |s|
-| \| Andrew Joseph  |s|
-| \| Brendan Trinh  |s|
+| **\|** David Ramsayer |s|
+| **\|** Andrew Joseph  |s|
+| **\|** Brendan Trinh  |s|
