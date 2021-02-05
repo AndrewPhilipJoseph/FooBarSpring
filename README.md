@@ -7,6 +7,6 @@ Welcome to our Trimester 2 Java Spring Project!
 
 | Scrum Member | Description |
 |--------|-------|
-| **\|** David Ramsayer |s|
-| **\|** Andrew Joseph  |s|
-| **\|** Brendan Trinh  |s|
+| David Ramsayer | Added old [TicTacToe](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/main/src/src/Imports/TicTacToeUI.java) game to work with while learning Spring. |
+| Andrew Joseph  |s|
+| Brendan Trinh  |s|
