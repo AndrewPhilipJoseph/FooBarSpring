@@ -5,8 +5,7 @@ Welcome to our Trimester 2 Java Spring Project!
 
 ## **Initial Presentation**
 
+|--------|-------|
 |David Ramsayer|s|
-|-----------|--|
 |Andrew Joseph |s|
-|-----------|--|
-|Brendan Trinh|s|
+|Brendan Trinh |s|
