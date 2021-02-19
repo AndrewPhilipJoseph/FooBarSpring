@@ -3,7 +3,7 @@ package com.example.demo.algos;
 public class CoinGameFRQ3 {
 
 
-
+        private String winner;
 
         private int startingCoins; // starting number of coins
 
@@ -85,14 +85,14 @@ public class CoinGameFRQ3 {
             }
 
             if (Player1Coins > Player2Coins) {
-                System.out.println("Player 1 Wins!");
+                winner = "Player 1 Wins!";
             }
 
             else if (Player2Coins > Player1Coins) {
-                System.out.println("Player 2 Wins!");
+                winner = "Player 2 Wins!";
             }
             else {
-                System.out.println("Tie");
+                winner = "Tie!";
             }
 
 
@@ -101,15 +101,18 @@ public class CoinGameFRQ3 {
 
         public void testEnd(int p1coins, int p2coins) {
             if (p1coins < 3) {
-                System.out.println("Player 2 Wins!");
-                System.exit(0);
+                winner = "Player 2 Wins!";
+
             }
             if (p2coins < 3) {
-                System.out.println("Player 1 Wins!");
-                System.exit(0);
+                winner = "Player 1 Wins!";
+
             }
         }
 
+        public String getwinner() {
+            return winner;
+        }
 
         public static void main(String[] args) {
             CoinGameFRQ3 Game = new CoinGameFRQ3(15, 5);

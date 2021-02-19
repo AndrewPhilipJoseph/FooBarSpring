@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <title>CoinGame</title>
 </head>
 <body>
+
+<div class="form">
 <form action="/CoinGame" method="GET" id="Coin">
-    <div>
 
         <label for="Coin">Starting Amount:</label>
         <input name="startingAmount" id="SAmount" type="text">
@@ -14,7 +15,11 @@
         <input name="startingAmount" id="rounds" type="text">
 
         <button>Go</button>
+</form>
     </div>
+
+
+
 </form>
 </body>
 </html>

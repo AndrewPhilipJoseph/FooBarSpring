@@ -7,7 +7,7 @@ Welcome to our Trimester 2 Java Spring Project!
 | Scrum Member | Description |
 |--------|-------|
 | David Ramsayer |  |
-| Andrew Joseph  |Created basic page layout, currently working on implementation|
+| Andrew Joseph  |Created basic page layout, currently working on implementation. Got first lab mostly done, but confused about output, everything else seems to be connected and work correctly [first lab integration into HTML.](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/AndrewLabs/CoinGame.html) Completed ticket of integrating labs into HTML (more will be added in the future, the one completed here took longer than future ones because it was the first one that I have connected. [Ticket/issue.](https://github.com/AndrewPhilipJoseph/FooBarSpring/issues/1) Concept of multiple pages [was made.](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/AndrewLabs/AndrewMain.html)|
 | Brendan Trinh  |s|
 
 

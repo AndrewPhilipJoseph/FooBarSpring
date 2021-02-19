@@ -18,8 +18,9 @@ public class MainController {
     @GetMapping("/AndrewLabs/CoinGame")
     public String CG(@RequestParam(name = "startingAmount", required = false, defaultValue = "15") String startAmount, @RequestParam(name = "rounds", required = false, defaultValue = "5") String rounds, Model model) {
         CoinGameFRQ3 CoinGame = new CoinGameFRQ3((Integer.valueOf(startAmount)), Integer.valueOf(rounds));
+        CoinGame.playGame();
 
-        //model.addAttribute()
+        model.addAttribute("winner", CoinGame.getwinner());
 
         return "/CoinGame.html";
     }
