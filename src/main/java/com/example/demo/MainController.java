@@ -9,21 +9,23 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class MainController {
 
-    @GetMapping("/AndrewMain")
+    @GetMapping("/AndrewLabs/AndrewMain")
     public String AndrewPage() {
-        return "/AndrewMain.html";
+        return "AndrewLabs/AndrewMain.html";
     }
 
 
-    @GetMapping("/AndrewLabs/CoinGame")
-    public String CG(@RequestParam(name = "startingAmount", required = false, defaultValue = "15") String startAmount, @RequestParam(name = "rounds", required = false, defaultValue = "5") String rounds, Model model) {
-        CoinGameFRQ3 CoinGame = new CoinGameFRQ3((Integer.valueOf(startAmount)), Integer.valueOf(rounds));
+    @GetMapping("/CoinGame")
+    public String CG(@RequestParam(name = "startingAmount", required = false, defaultValue = "15") String startAmount, @RequestParam(name = "rounds", required = false, defaultValue = "5") String round, Model model) {
+        CoinGameFRQ3 CoinGame = new CoinGameFRQ3((Integer.valueOf(startAmount)), Integer.valueOf(round));
         CoinGame.playGame();
 
         model.addAttribute("winner", CoinGame.getwinner());
 
-        return "/CoinGame.html";
+        return "AndrewLabs/CoinGame";
     }
+
+
 
 
 }

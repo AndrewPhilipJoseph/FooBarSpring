@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
-<head>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://thymeleaf.org">
+<head th:replace="fragments/headfile.html :: head">
     <meta charset="UTF-8">
     <title>CoinGame</title>
 </head>
@@ -8,18 +8,16 @@
 
 <div class="form">
 <form action="/CoinGame" method="GET" id="Coin">
-
+    <div>
         <label for="Coin">Starting Amount:</label>
         <input name="startingAmount" id="SAmount" type="text">
         <label for="Coin">rounds:</label>
         <input name="startingAmount" id="rounds" type="text">
-
         <button>Go</button>
+    <p th:text = "'Winner: ' + ${winner}"></p>
+
+    </div>
 </form>
     </div>
-
-
-
-</form>
 </body>
 </html>

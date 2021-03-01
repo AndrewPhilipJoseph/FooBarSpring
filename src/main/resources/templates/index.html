@@ -1,16 +1,20 @@
 <!DOCTYPE HTML>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://thymeleaf.org">
 <head th:replace="fragments/headfile.html :: head">
     <title>You first Spring application</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<div th:replace="fragments/header :: header"></div>
+
 <p>This is the FooBar Spring project</p>
 
-<p><a href="/hello">Hello demo!</a></p>
 
-<p><a href="/AndrewMain.html">Andrew</a></p>
+
+<p><a href="/AndrewLabs/AndrewMain">Andrew</a></p>
+
+
+
+<p><a href="/hello">Hello demo!</a></p>
 
 <form action="/hello" method="GET" id="nameForm">
     <div>
