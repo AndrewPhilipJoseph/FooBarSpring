@@ -18,4 +18,5 @@ Welcome to our Trimester 2 Java Spring Project!
 |--------|-------|
 | David Ramsayer | Added old [TicTacToe](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/main/src/src/Imports/TicTacToeUI.java) game to work with while learning Spring. |
 | Andrew Joseph  |Created startup files (everything in the default master branch) through the use of the spring online tutorial. I also worked on setting up the online server, which is nearly done (the only remaining parts are the service files)|
-| Brendan Trinh  |s|
+| Brendan Trinh  |Trying to add code from the old FRQS and convert it into the the Spring Format and creating method of accessing easter egg and for future minilabs
+|
