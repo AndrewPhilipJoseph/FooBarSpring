@@ -16,7 +16,7 @@ We hope you like our work!
 |--------|-------|
 | David Ramsayer | Redid [game](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/static/TicTacToe) using javascript (typescript), css, and html code for practice with the three forms. |
 | Andrew Joseph  |Created basic page layout, currently working on implementation. Got first lab mostly done, but confused about output, everything else seems to be connected and work correctly [first lab integration into HTML.](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/AndrewLabs/CoinGame.html) Completed ticket of integrating labs into HTML (more will be added in the future, the one completed here took longer than future ones because it was the first one that I have connected. [Ticket/issue.](https://github.com/AndrewPhilipJoseph/FooBarSpring/issues/1) Concept of multiple pages [was made.](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/AndrewLabs/AndrewMain.html)|
-| Brendan Trinh  |s|
+| Brendan Trinh  |Redid and added snakegame into the list of other games for extra practice on html code|
 
 
 
