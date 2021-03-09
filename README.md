@@ -11,7 +11,7 @@ We hope you like our work!
 
 ------------------------------------------------
 
-## **Guided Outline**
+## **Technicals Overview**
 
 ## **Implementation work**
 | Scrum Member | Description |
