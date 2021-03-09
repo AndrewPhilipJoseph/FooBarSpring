@@ -16,7 +16,13 @@ We hope you like our work!
    - cool
 ### - Login & Navigation
    - cool
-### - Arcade
+### - Color Guessing Game
+   - cool
+### - Memory Matching Game
+   - cool
+### - Snake Game
+   - cool
+### - Tic-Tac-Toe Game
    - cool
 ### - AP FRQ's
    - cool
