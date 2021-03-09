@@ -12,19 +12,19 @@ We hope you like our work!
 ------------------------------------------------
 
 ## **Guided Overview**
-### - Website Deployment
+   ### -- Website Deployment
    - cool
-### - Login & Navigation
+   ### -- Login & Navigation
    - cool
-### - Color Guessing Game
+   ### -- Color Guessing Game
    - cool
-### - Memory Matching Game
+   ### -- Memory Matching Game
    - cool
-### - Snake Game
+   ### -- Snake Game
    - cool
-### - Tic-Tac-Toe Game
+   ### -- Tic-Tac-Toe Game
    - cool
-### - AP FRQ's
+   ### -- AP FRQ's
    - cool
 
 ## **Implementation work**
