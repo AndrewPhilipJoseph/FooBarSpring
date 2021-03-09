@@ -3,6 +3,12 @@ Welcome to our Trimester 2 Java Spring Project!
 #### [Project Plan](https://docs.google.com/document/d/1BfC11oQnmn8DtsHVdqGQ3fDUcyWNKPyixhZ0jkPgNaM)
 #### [Project Board - Tickets](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1)
 
+We have a live website showing off many different applications of html, css, java, and javascrpt code! Check it out here!
+Below is a brief log of some work assignments, to see everything follow the link to the Project Board above.
+We hope you like our work! 
+
+------------------------------------------------
+
 ## **Implementation work**
 | Scrum Member | Description |
 |--------|-------|
