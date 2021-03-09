@@ -2,7 +2,7 @@
 Welcome to our Trimester 2 Java Spring Project!
 
 
-We have created a live website showing off many different applications of html, css, java, and javascrpt code! Check it out here! <br>
+We have created a live website showing off many different applications of html, css, java, and javascript code! Check it out here! <br>
 Below is a guided outline to our project, as well as a brief log of some work assignments. To see everything follow the link to the Project Board below. <br>
 We hope you like our work! 
 
@@ -11,7 +11,15 @@ We hope you like our work!
 
 ------------------------------------------------
 
-## **Technicals Overview**
+## **Guided Overview**
+### Website Deployment
+ cool
+### Login & Navigation
+ cool
+### Arcade
+ cool
+### AP FRQ's
+ cool
 
 ## **Implementation work**
 | Scrum Member | Description |
