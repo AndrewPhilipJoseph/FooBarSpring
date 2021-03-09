@@ -17,7 +17,10 @@ We hope you like our work!
    ### > Login & Navigation
    - cool
    ### > Color Guessing Game
-   - cool
+   - This game depicts a varying number of squares (based on the selected difficulty), each a different color. There is an RBG sequence at the top, and the user needs to imagine what color would be created by the sequence. They then click the color square that they believe corresponds. 
+     - This uses
+     - Link to code
+     - Link to runtime
    ### > Memory Matching Game
    - cool
    ### > Snake Game
