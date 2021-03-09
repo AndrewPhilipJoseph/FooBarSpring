@@ -12,14 +12,14 @@ We hope you like our work!
 ------------------------------------------------
 
 ## **Guided Overview**
-   ### Website Deployment
-- cool
-   ### Login & Navigation
-- cool
-   ### Arcade
-- cool
-   ### AP FRQ's
-- cool
+###  - Website Deployment
+       - cool
+###  - Login & Navigation
+       - cool
+###  - Arcade
+       - cool
+###  - AP FRQ's
+       - cool
 
 ## **Implementation work**
 | Scrum Member | Description |
