@@ -14,8 +14,12 @@ We hope you like our work!
 # **Guided Overview**
    ### > Website Deployment
    - cool
+     - Link to code
+     - Link to runtime
    ### > Login & Navigation
    - cool
+     - Link to code
+     - Link to runtime
    ### > Color Guessing Game
    - This game depicts a varying number of squares (based on the selected difficulty), each a different color. There is an RBG sequence at the top, and the user needs to imagine what color would be created by the sequence. They then click the color square that they believe corresponds. They can continue to guess if they get it wrong. There is a reset button along the top left of the bar.
      - This uses 
@@ -23,12 +27,20 @@ We hope you like our work!
      - Link to runtime
    ### > Memory Matching Game
    - cool
+     - Link to code
+     - Link to runtime
    ### > Snake Game
    - cool
+     - Link to code
+     - Link to runtime
    ### > Tic-Tac-Toe Game
    - cool
+     - Link to code
+     - Link to runtime
    ### > AP FRQ's
    - cool
+     - Link to code
+     - Link to runtime
 
 ## **Implementation work**
 | Scrum Member | Description |
