@@ -43,23 +43,16 @@ public class MainController {
 
     @GetMapping("/Games/TicTacToe/tic")
     public String TTT() {
-        return "Games/TicTacToe/tic.html";
+        return "Games/TicTacToe/tic";
 
 
     }
-/*
-    @GetMapping("/Restauraunt")
-    public String restauraunt(@RequestParam(name = "rsvp", required = false, defaultValue = "15") String rsvp, @RequestParam(name = "rounds", required = false, defaultValue = "5") String round, Model model) {
-        CoinGameFRQ3 CoinGame = new CoinGameFRQ3((Integer.valueOf(startAmount)), Integer.valueOf(round));
-        CoinGame.playGame();
 
-        model.addAttribute("winner", CoinGame.getwinner());
+    @GetMapping("/Games/MemoryGame/memorygame")
+    public String memGame() {
+        return "Games/MemoryGame/memorygame";
 
-        return "AndrewLabs/CoinGame";
     }
-*/
-
-
 
 
 }
