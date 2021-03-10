@@ -42,7 +42,7 @@ We hope you like our work!
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/TicTacToe)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-55945819)
-   ### > AP FRQ's/Labs
+   ### > AP FRQ's
    - cool
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/AndrewLabs)
      - Link to [runtime]()
