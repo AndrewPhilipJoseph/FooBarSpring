@@ -29,7 +29,7 @@ We hope you like our work!
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551048)
    ### > Memory Matching Game
    - cool
-     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/Games/Memory Game)
+     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/Games/MemoryGame)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
