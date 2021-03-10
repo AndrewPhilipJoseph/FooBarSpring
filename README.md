@@ -24,33 +24,39 @@ We hope you like our work!
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56555908)
    ### > Login & Navigation
    - Andrew
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (131).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Login)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732335)
    ### > Color Guessing Game
    - This game depicts a varying number of squares (based on the selected difficulty), each a different color. There is an RBG sequence at the top, and the user needs to imagine what color would be created by the sequence. They then click the color square that they believe corresponds. They can continue to guess if they get it wrong. There is a reset button along the top left of the bar.
    - This uses functions like generateRandomColors with var for red (r), green (g), and blue (b) to randomize the sequence and subsequent color. There is a reset function under "new rgb code" which generates new random colors.
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (130).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/GuesstheColor)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551048)
    ### > Memory Matching Game
    - This matching card game works by randomly assigning letter cards to spots in the grid. The user is only allowed to flip two at a time before they are recovered. If you uncover matching cards with the same turn, they stay uncovered. The goal is to uncover the entire grid.
    - This
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (126).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/MemoryGame)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
    - Brendan
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (127).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/Games/snake.html)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54340604)
    ### > Tic-Tac-Toe Game
    - cool
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (129).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/TicTacToe)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-55945819)
    ### > AP FRQ's
    - Andrew
+<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (132).png" height="auto" width="50%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/AndrewLabs)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732413)
