@@ -18,18 +18,20 @@ We hope you like our work!
 ------------------------------------------------
 
 # **Guided Overview**
-   ### > Website Deployment
+### > Login 
    - Andrew <br> <br>
-<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (131).png" height="auto" width="30%"> <br>
-     - Link to [code]() xx
-     - Link to [website](http://54.193.51.220)
-     - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56555908)
-   ### > Login & Navigation
-   - Andrew <br> <br>
+     Overview
+     - Basic implementation of a login system
+     - Can input username and password
+     - login only goes back to the home page
+     
+     Technicals
+     * Basic css animations for when either field is selected
+     
+     Code involved
 <img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (131).png" height="auto" width="30%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Login)
-     - Link to [runtime]() xx
-     - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56568947)
+
    ### > Color Guessing Game
    - This game depicts a varying number of squares (based on the selected difficulty), each a different color. There is an RBG sequence at the top, and the user needs to imagine what color would be created by the sequence. They then click the color square that they believe corresponds. They can continue to guess if they get it wrong. There is a reset button along the top left of the bar.
    - This uses functions like generateRandomColors with var for red (r), green (g), and blue (b) to randomize the sequence and subsequent color. There is a reset function under "new rgb code" which generates new random colors. <br> <br>
@@ -57,12 +59,15 @@ We hope you like our work!
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/TicTacToe)
      - Link to [runtime]() xx
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-55945819)
-   ### > AP FRQ's
-   - Andrew <br> <br>
-<img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (132).png" height="auto" width="50%"> <br>
-     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/AndrewLabs)
-     - Link to [runtime]() xx
-     - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732413)
+  
+
+
+
+## **Runtime Guidance**
+* Clone the project in InteliJ.
+* Run DemoApplication.
+* Open Localhost:8080 in your browser.
+
 
 ## **Implementation work**
 | Scrum Member | Description |
