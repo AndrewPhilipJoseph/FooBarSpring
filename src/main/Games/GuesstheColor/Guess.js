@@ -49,13 +49,10 @@ function setupSquares(){
 
 function reset(){
 	colors = generateRandomColors(numSquares);
-	//pick a new random color from array
 	pickedColor = pickColor();
-	//change colorDisplay to match picked Color
 	colorDisplay.textContent = pickedColor;
 	resetButton.textContent = "New RGB Code"
 	messageDisplay.textContent = "";
-	//change colors of squares
 	for(var i = 0; i < squares.length; i++){
 		if(colors[i]){
 			squares[i].style.display = "block"
@@ -72,9 +69,7 @@ resetButton.addEventListener("click", function(){
 })
 
 function changeColors(color){
-	//loop through all squares
 	for(var i = 0; i < squares.length; i++){
-		//change each color to match given color
 		squares[i].style.backgroundColor = color;
 	}
 }
