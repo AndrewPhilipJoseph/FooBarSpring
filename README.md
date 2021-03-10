@@ -52,7 +52,7 @@ We hope you like our work!
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54340604)
    ### > Tic-Tac-Toe Game
    - Tic-Tac-Toe is a pretty self explanatory game. The user will play against themselves in this implementation. <br>
-   - This is the first old project brought back for practice with html, css, javascript, and spring deployment. It was a good way to familiarize myself with these concepts. There are event handlers for cell interaction and player switching, and var used for winning conditions. <br> <br>
+   - This is the first old project brought back for practice with html, css, javascript, and spring deployment. It was a good way to familiarize myself with these concepts. There are event handlers for cell interaction and player switching, and var used for winning conditions. <br>
 <img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (129).png" height="auto" width="30%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/TicTacToe)
      - Link to [runtime]()---
