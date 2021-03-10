@@ -39,7 +39,7 @@ We hope you like our work!
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551048)
    ### > Memory Matching Game
    - This matching card game works by randomly assigning letter cards to spots in the grid. The user is only allowed to flip two at a time before they are recovered. If you uncover matching cards with the same turn, they stay uncovered. The goal is to uncover the entire grid.
-   - This <br> <br>
+   - This uses if/else while checking for matching tiles in order to either keep them uncovered or recover them. There are seperate var a tile's ID and the value it contains. This allows for the comparisons to be done. <br> <br>
 <img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (126).png" height="auto" width="40%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/MemoryGame)
      - Link to [runtime]()
