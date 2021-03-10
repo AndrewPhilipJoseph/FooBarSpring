@@ -54,5 +54,12 @@ public class MainController {
 
     }
 
+    @GetMapping("/Games/GuesstheColor/GuesstheColor")
+    public String guessColor() {
+        return "Games/GuesstheColor/GuesstheColor";
+    }
+    @GetMapping("/Login")
+    public String login() {
+        return "Login/Log";
 
 }
