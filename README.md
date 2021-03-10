@@ -28,13 +28,14 @@ We hope you like our work!
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551048)
    ### > Memory Matching Game
-   - cool
+   - This matching card game works by randomly assigning letter cards to spots in the grid. The user is only allowed to flip two at a time before they are recovered. If you uncover matching cards with the same turn, they stay uncovered. The goal is to uncover the entire grid.
+   - This
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/MemoryGame)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
    - cool
-     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/snakegame.java)
+     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/Games/snake.html)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54340604)
    ### > Tic-Tac-Toe Game
