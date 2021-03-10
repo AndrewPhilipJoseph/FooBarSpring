@@ -61,5 +61,5 @@ public class MainController {
     @GetMapping("/Login")
     public String login() {
         return "Login/Log";
-
+    }
 }
