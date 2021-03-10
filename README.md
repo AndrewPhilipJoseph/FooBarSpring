@@ -18,18 +18,18 @@ We hope you like our work!
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56555908)
    ### > Login & Navigation
    - cool
-     - Link to [code]()
+     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Login)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732335)
    ### > Color Guessing Game
    - This game depicts a varying number of squares (based on the selected difficulty), each a different color. There is an RBG sequence at the top, and the user needs to imagine what color would be created by the sequence. They then click the color square that they believe corresponds. They can continue to guess if they get it wrong. There is a reset button along the top left of the bar.
    - This uses functions like generateRandomColors with var for red (r), green (g), and blue (b) to randomize the sequence and subsequent color. There is a reset function under "new rgb code" which generates new random colors.
-     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/Games/GuesstheColor)
+     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/GuesstheColor)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551048)
    ### > Memory Matching Game
    - cool
-     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/Games/MemoryGame)
+     - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Games/MemoryGame)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
