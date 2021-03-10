@@ -1,29 +1,16 @@
 <!DOCTYPE HTML>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://thymeleaf.org">
 <head th:replace="fragments/headfile.html :: head">
-    <title>You first Spring application</title>
+    <title>FoobarSpring</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
 
-<p>This is the FooBar Spring project</p>
+<p>Welcome to the FooBar Spring project!!</p>
 
+<div th:replace="fragments/header :: header"></div>
 
-
-<p><a href="/AndrewLabs/AndrewMain">Andrew</a></p>
-
-
-
-<p><a href="/hello">Hello demo!</a></p>
-
-<form action="/hello" method="GET" id="nameForm">
-    <div>
-        <label for="nameField">How should the app call you?</label>
-        <input name="myName" id="nameField">
-        <button>Greet me!</button>
-    </div>
-
-
+<p><a href="https://docs.google.com/document/d/1ZEMbY_SJAptVBFEJHVeJKblV_N-WxgPG38xeOHocP9Q/edit">Our Journal!</a></p>
 
 
 </form>
