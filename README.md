@@ -1,8 +1,14 @@
 # FooBarSpring
 Welcome to our Trimester 2 Java Spring Project!
 
+| FooBar Team |
+|----|
+| [David Ramsayer](https://github.com/davidramsayer) |
+| [Andrew Joseph](https://github.com/AndrewPhilupJoseph) |
+| [Brendan Trinh](https://github.com/brendan8503) |
 
-We have created a live website showing off many different applications of html, css, java, and javascript code! [Check it out here!](http://54.193.51.220) <br>
+We have created a live website showing off many different applications of html, css, java, and javascript code! <br> 
+[Check it out here!](http://54.193.51.220) <br>
 Below is a guided outline to our project, as well as a brief log of some work assignments. To see everything follow the link to the Project Board below. <br>
 We hope you like our work! 
 
@@ -13,11 +19,11 @@ We hope you like our work!
 
 # **Guided Overview**
    ### > Website Deployment
-   - cool
+   - Andrew
      - Link to [code]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56555908)
    ### > Login & Navigation
-   - cool
+   - Andrew
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Login)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732335)
@@ -34,7 +40,7 @@ We hope you like our work!
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
-   - cool
+   - Brendan
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/Games/snake.html)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54340604)
@@ -44,7 +50,7 @@ We hope you like our work!
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-55945819)
    ### > AP FRQ's
-   - cool
+   - Andrew
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/AndrewLabs)
      - Link to [runtime]()
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-54732413)
