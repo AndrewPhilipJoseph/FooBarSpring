@@ -18,17 +18,16 @@ We hope you like our work!
 ------------------------------------------------
 
 # **Guided Overview**
+## **Runtime Guidance**
+* The deployment update failed, currently trying to resolve
+  * Clone the project in InteliJ.
+  * Run DemoApplication.
+  * Open Localhost:8080 in your browser.
 ### > Login 
-   - Andrew <br> <br>
-     Overview
-     - Basic implementation of a login system
-     - Can input username and password
-     - login only goes back to the home page
-     
-     Technicals
-     * Basic css animations for when either field is selected
-     
-     Code involved
+   - Basic implementation of a login system
+   - Can input username and password
+   - login only goes back to the home page
+   - Basic css animations for when either field is selected <br> <br>
 <img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (131).png" height="auto" width="30%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/tree/Other/src/main/resources/templates/Login)
 
@@ -47,7 +46,8 @@ We hope you like our work!
      - Link to [runtime]() xx
      - Link to [ticket](https://github.com/AndrewPhilipJoseph/FooBarSpring/projects/1#card-56551070)
    ### > Snake Game
-   - Brendan <br> <br>
+   - This snake game is played with the arrow keys on the keyboard. It was done entirely in html, so it is simple stylistically.
+   - Uses a variable x to set the draw per second. There is a math.random to place the apple at a random location, which is called whenever the snake and apple meet in location. This event also adds length to the var tailSize. <br> <br>
 <img src="https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/static/Screenshot (127).png" height="auto" width="30%"> <br>
      - Link to [code](https://github.com/AndrewPhilipJoseph/FooBarSpring/blob/Other/src/main/resources/templates/Games/snake.html)
      - Link to [runtime]() xx
@@ -63,10 +63,7 @@ We hope you like our work!
 
 
 
-## **Runtime Guidance**
-* Clone the project in InteliJ.
-* Run DemoApplication.
-* Open Localhost:8080 in your browser.
+
 
 
 ## **Implementation work**
