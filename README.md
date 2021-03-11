@@ -20,6 +20,7 @@ We hope you like our work!
 # **Guided Overview**
 ### > Runtime Guidance
 * The deployment update failed, currently trying to resolve
+* Follow the steps below to view full site
   * Clone the project in InteliJ.
   * Run DemoApplication.
   * Open Localhost:8080 in your browser.
